@@ -43,7 +43,7 @@ With this you can threaten your enemies so that they give you money, items or th
 
 
 
-![](https://github.com/Zeta115/RPG-tutorial-creation/blob/main/docs/P5R%20All%20Out.png)
+[](https://github.com/Zeta115/RPG-tutorial-creation/blob/main/docs/P5R%20All%20Out.png)
 (Persona 5 Royale all out attack)
 
 
