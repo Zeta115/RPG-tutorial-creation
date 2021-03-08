@@ -34,16 +34,16 @@ This is an attack involving all of your teamates to deal massive damage to all y
 With this you can threaten your enemies so that they give you money, items or their own power. (This mechanic is not seen in the tutorial as it is intended to let you see the All out attack).
 
 
-![P5R](https://github.com/Zeta115/RPG-tutorial-creation/blob/main/docs/P5R%20combat.png)
+![P5R](P5R combat.png)
 (Persona 5 Royale main combat features)
 
 
-![](https://github.com/Zeta115/RPG-tutorial-creation/blob/main/docs/P5R%20Hold%20Ups.png)
+![](P5R Hold Ups.png)
 (Persona 5 Royale hold ups mechanic)
 
 
 
-[](https://github.com/Zeta115/RPG-tutorial-creation/blob/main/docs/P5R%20All%20Out.png)
+![](P5R All Out.png)
 (Persona 5 Royale all out attack)
 
 
