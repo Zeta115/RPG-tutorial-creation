@@ -13,6 +13,16 @@ For the non RPG game we will take "Terraria", the game is listed in steam as a S
 
 As we can see in the image the game shows you the ropes with kick guides in the inferior part of the screen such as how to open it's inventory.
 
+Terraria's tutorial also feature a pre-scipted world hepling you find diferent objects to get used to the game's mechanics.
+
+As for a good RPG game tutorial we will take Persona 5 Royale.
+
+The game starts in the middle of the action, guiding you through a small section of the game, it teaches you how to move around in diferent modes and what to do in fights, eting you target your enemies weakneses.
+
+
+![]()
+![]()
+![]()
 ## bibliography
 
 - [Terraria's tutorial](https://terraria.gamepedia.com/Tutorial)
