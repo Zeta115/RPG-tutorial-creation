@@ -10,7 +10,7 @@ From what i can gather, the book "Learn to play: Designing tutorials for video g
 
 For the non RPG game we will take "Terraria", the game is listed in steam as a Sandbox-Survival game and we can say it's also a action-adventure game
 
-![Terraria's tutorial for 3ds](docs/Tutorial_spawn.jpg)
+![Terraria's tutorial for 3ds](https://github.com/Zeta115/RPG-tutorial-creation/blob/main/docs/Tutorial_spawn.jpg)
 (Terraria's tutorial for 3ds)
 
 As we can see in the image the game shows you the ropes with kick guides in the inferior part of the screen such as how to open it's inventory.
