@@ -15,9 +15,9 @@ As we can see in the image the game shows you the ropes with kick guides in the 
 
 ## bibliography
 
--[Terraria's tutorial](https://terraria.gamepedia.com/Tutorial)
+- [Terraria's tutorial](https://terraria.gamepedia.com/Tutorial)
 
--[Learn to play book reference](https://www.routledge.com/Learn-to-Play-Designing-Tutorials-for-Video-Games/White/p/book/9781482220193)
+- [Learn to play book reference](https://www.routledge.com/Learn-to-Play-Designing-Tutorials-for-Video-Games/White/p/book/9781482220193)
 
 -
 
