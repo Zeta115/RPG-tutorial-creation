@@ -30,8 +30,14 @@ Since you have to do a market study before launching your game some good advises
 
 # Selected aproach
 
+- The tutorial should present every key feature of your game, it can be more or less obvious inside the story, but you should try to implement a tutorial that also goes with the game's story
 
 
+![](images/LHCard.png)
+(Loop Hero, tutorial explained through UI elements).
+
+![](images/LHobvious.png)
+(Loop Hero, literaly telling you that this is all the tutorial).
 # Posible Improvements
 
 
