@@ -34,7 +34,7 @@ This is an attack involving all of your teamates to deal massive damage to all y
 With this you can threaten your enemies so that they give you money, items or their own power. (This mechanic is not seen in the tutorial as it is intended to let you see the All out attack).
 
 
-![](https://github.com/Zeta115/RPG-tutorial-creation/blob/main/docs/P5R%20combat.png)
+![P5R](https://github.com/Zeta115/RPG-tutorial-creation/blob/main/docs/P5R%20combat.png)
 (Persona 5 Royale main combat features)
 
 
