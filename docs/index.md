@@ -1,37 +1,19 @@
 ## Welcome to the RPG tutorial creation research
 
-You can use the [editor on GitHub](https://github.com/Zeta115/Zeta115.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+In this page you're going to find a personal research about the RPG tutorials with some good and bad examples as well as a guide on how to make your own tutorial with good advises
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+From what i can gather, the book "Learn to play: Designing tutorials for video games" is a great start into the understanding of what is a tutorial itself and how to implement them more naturaly. The author's book, Mathew M. White, has years of studies in psychology, education in the video game department, human-computer interaction and user interface experience han he compiles all his experience to help game designers to make their game's tutorials feel more dynamic. The book allso offers easy to implement changes to help your educate new players into your game and engage the more experienced playerbase.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# bibliography
 
-# Header 1
-## Header 2
-### Header 3
+-
 
-- Bulleted
-- List
+-
 
-1. Numbered
-2. List
+-
 
-**Bold** and _Italic_ and `Code` text
+-
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zeta115/Zeta115.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-
