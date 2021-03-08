@@ -86,7 +86,7 @@ Persona 5 Royale's tutorial goes from moving around the scene to let you do a ba
 For the off combat features the game has:
 
 - Normal Walking/Running mode/Automatic jump between obstacles.
-
+![](images/P5R_Jump.png)
 
 - Graple hook presented with 2 clear UI elements (only in some areas of the game, usually used to acces secret areas through short cutscenes).
 ![](images/P5R_Graple.jpg)
@@ -98,7 +98,7 @@ For the off combat features the game has:
 
 
 
-Your main objective to achieve easy to win battles is go for the hold up mode, in this mode all enemies are downed and you have 3 options, but there's only 2 usefull ones, those being:
+Your main objective to win battles is go for the hold up mode,to acces this mode all enemies have to be downed and you have 3 options, but there's only 2 usefull ones as the third one only returns you to batle state, those other 2 being:
 
 - All Out attack.
 
@@ -138,8 +138,7 @@ With this you can threaten your enemies so that they give you money, items or th
 
 - [Learn to play book reference](https://www.routledge.com/Learn-to-Play-Designing-Tutorials-for-Video-Games/White/p/book/9781482220193)
 
-- [gamasutra article on how learning works](https://www.gamasutra.com/blogs/JoshBycer/20161011/283049/How_to_Improve_Education_via_Game_Tutorials.php)
+- [Gamasutra article on how learning works](https://www.gamasutra.com/blogs/JoshBycer/20161011/283049/How_to_Improve_Education_via_Game_Tutorials.php)
 
--
 
--
+
