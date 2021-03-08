@@ -19,10 +19,32 @@ As for a good RPG game tutorial we will take Persona 5 Royale.
 
 The game starts in the middle of the action, guiding you through a small section of the game, it teaches you how to move around in diferent modes and what to do in fights, eting you target your enemies weakneses.
 
+Here i will guide you to the Persona 5 Royale simple battle tutorial:
 
-![]()
-![]()
-![]()
+Your main objective to achieve easy to win battles is go for the hold up mode, in this mode all enemies are downed and you have 3 options, but there's only 2 usefull ones, those being:
+
+- All Out attack.
+
+This is an attack involving all of your teamates to deal massive damage to all your enemies, easy to end battles
+
+- Talk mechanic.
+
+With this you can threaten your enemies so that they give you money, items or their own power. (This mechanic is not seen in the tutorial as it is intended to let you see the All out attack).
+
+
+![](https://github.com/Zeta115/RPG-tutorial-creation/blob/main/docs/P5R%20combat.png)
+(Persona 5 Royale main combat features)
+
+
+![](https://github.com/Zeta115/RPG-tutorial-creation/blob/main/docs/P5R%20Hold%20Ups.png)
+(Persona 5 Royale hold ups mechanic)
+
+
+
+![](https://github.com/Zeta115/RPG-tutorial-creation/blob/main/docs/P5R%20All%20Out.png)
+(Persona 5 Royale all out attack)
+
+
 ## bibliography
 
 - [Terraria's tutorial](https://terraria.gamepedia.com/Tutorial)
