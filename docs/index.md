@@ -104,7 +104,7 @@ Graple hook presented with 2 clear UI elements (only in some areas of the game, 
 - Normal/Running mode
 
 
-![](images/P5R_Hide.jpg)
+![](images/P5R_HIDE.jpg)
 - Hiding mode(Key feature)
 
 # Documentation
