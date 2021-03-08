@@ -11,16 +11,27 @@ From what i can gather, the book "Learn to play: Designing tutorials for video g
 
 # Market Study
 
-#Selected aproach
+
+
+# Selected aproach
+
+
 
 # Posible Improvements
 
 
+
+
 ## Comparison between one rpg game tutorial vs a non rpg game
+
+
 
 ### Terraria's tutorial
 
+
+
 For the non RPG game we will take "Terraria", the game is listed in steam as a Sandbox-Survival game and we can say it's also a action-adventure game
+
 
 ![](images/Tutorial_spawn.jpg)
 (Terraria's tutorial for 3ds)
@@ -65,10 +76,14 @@ With this you can threaten your enemies so that they give you money, items or th
 
 # Documentation
 
+
+
 ![Checklist]()
 
 
 # Bibliography
+
+
 
 - [Terraria's tutorial](https://terraria.gamepedia.com/Tutorial)
 
