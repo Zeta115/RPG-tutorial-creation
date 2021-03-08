@@ -30,7 +30,9 @@ Since you have to do a market study before launching your game some good advises
 
 # Selected aproach
 
-- The tutorial should present every key feature of your game, it can be more or less obvious inside the story, but you should try to implement a tutorial that also goes with the game's story
+- The tutorial should present every key feature of your game, it can be more or less obvious inside the story, but you should try to implement a tutorial that also goes with the game's story.
+
+Loop Hero has a very kick, easy to understand tutorial and it does count as the start of the character's story but it is obvious that you're going through the tutorial
 
 
 ![](images/LHCard.png)
@@ -44,7 +46,15 @@ As we will see later, diferent RPGs have other ways of implementing its tutorial
 
 # Posible Improvements
 
+After surpasing the first 3 questions every tutorial should answer you may look for some extras such as:
 
+- Making it entertainded and interesting
+
+- Story wise relevant
+
+- How is the complexity in mechanics evolving?
+
+For this last one you should present your game's newest mechanics from the most easy to understand to the more complex kind of mechanics, you can't teach me how to shoot a bow without explaining how to aim or charge.
 
 
 ## Comparison between one rpg game tutorial vs a non rpg game
