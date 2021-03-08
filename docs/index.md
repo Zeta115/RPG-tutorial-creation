@@ -8,10 +8,25 @@ In this page you're going to find a personal research about the RPG tutorials wi
 
 From what i can gather, the book "Learn to play: Designing tutorials for video games" is a great start into the understanding of what is a tutorial itself and how to implement them more naturaly. The author's book, Mathew M. White, has years of studies in psychology, education in the video game department, human-computer interaction and user interface experience han he compiles all his experience to help game designers to make their game's tutorials feel more dynamic. The book allso offers easy to implement changes to help your educate new players into your game and engage the more experienced playerbase.
 
+The key questions when playing the tutorial of a game are: What am I doing? How do I do it? And why am I doing it?
+
+If your tutorial does not answer these specific questions you may consider changing it a bit.
 
 # Market Study
 
+Since you have to do a market study before launching your game some good advises i'm seeing online are:
 
+- First of all, inspect your own game, wich genres does it have?
+
+- We are going for an RPG with clasic combat involving turns as mechanics.
+
+- Do not look for those games everyone knows or why they did succed in the first place.
+
+- Instead look for those game that over perfomed, those no one knew that even existed in the first place but now have a great revenue.
+
+- Hype is a double edged sword, handle it carefully.
+
+- Listen to the fans of the genres itselves, try to figure out the key mechanics everyone loves/hates.
 
 # Selected aproach
 
@@ -83,13 +98,13 @@ With this you can threaten your enemies so that they give you money, items or th
 
 # Bibliography
 
-
+- [Market studies](https://howtomarketagame.com/2019/12/11/how-i-do-competitive-analysis-for-my-game/)
 
 - [Terraria's tutorial](https://terraria.gamepedia.com/Tutorial)
 
 - [Learn to play book reference](https://www.routledge.com/Learn-to-Play-Designing-Tutorials-for-Video-Games/White/p/book/9781482220193)
 
--
+- [gamasutra article on how learning works](https://www.gamasutra.com/blogs/JoshBycer/20161011/283049/How_to_Improve_Education_via_Game_Tutorials.php)
 
 -
 
