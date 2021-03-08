@@ -79,7 +79,24 @@ Terraria's tutorial also features a pre-scipted world helping you find diferent 
 
 The game starts in the middle of the action(later on discovered as a fast forward), guiding you through a small later section of the game, it teaches you how to move around in diferent modes and what to do in fights, eting you target your enemies weakneses.
 
-### Persona 5 Royale battle tutorial:
+### Persona 5 Royale tutorial:
+
+Persona 5 Royale's tutorial goes from moving around the scene to let you do a basic battle to show you how to make All Out attacks. It does follow the line of evolving in complexity quite well.
+
+For the off combat features the game has:
+
+- Normal Walking/Running mode/Automatic jump between obstacles.
+
+
+- Graple hook presented with 2 clear UI elements (only in some areas of the game, usually used to acces secret areas through short cutscenes).
+![](images/P5R_Graple.jpg)
+
+
+
+- Hiding mode(Key feature)
+![](images/P5R_HIDE.jpg)
+
+
 
 Your main objective to achieve easy to win battles is go for the hold up mode, in this mode all enemies are downed and you have 3 options, but there's only 2 usefull ones, those being:
 
@@ -105,17 +122,6 @@ With this you can threaten your enemies so that they give you money, items or th
 (Persona 5 Royale all out attack)
 
 
-For the off combat features the game has:
-
-
-![](images/P5R_Graple.jpg)
-Graple hook presented with 2 clear UI elements (only in some areas of the game, usually used to acces secret areas)
-
-- Normal/Running mode
-
-
-![](images/P5R_HIDE.jpg)
-- Hiding mode(Key feature)
 
 # Documentation
 
