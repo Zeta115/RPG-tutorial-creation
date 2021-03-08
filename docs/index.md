@@ -10,7 +10,7 @@ From what i can gather, the book "Learn to play: Designing tutorials for video g
 
 For the non RPG game we will take "Terraria", the game is listed in steam as a Sandbox-Survival game and we can say it's also a action-adventure game
 
-![](Tutorial_spawn.jpg)
+![](images/Tutorial_spawn.jpg)
 (Terraria's tutorial for 3ds)
 
 As we can see in the image the game shows you the ropes with kick guides in the inferior part of the screen such as how to open it's inventory.
@@ -34,16 +34,16 @@ This is an attack involving all of your teamates to deal massive damage to all y
 With this you can threaten your enemies so that they give you money, items or their own power. (This mechanic is not seen in the tutorial as it is intended to let you see the All out attack).
 
 
-![](P5R_combat.png)
+![](images/P5R_combat.png)
 (Persona 5 Royale main combat features)
 
 
-![](P5R_Hold_Ups.png)
+![](images/P5R_Hold_Ups.png)
 (Persona 5 Royale hold ups mechanic)
 
 
 
-![](P5R_All_Out.png)
+![](images/P5R_All_Out.png)
 (Persona 5 Royale all out attack)
 
 
