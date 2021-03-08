@@ -38,6 +38,10 @@ Since you have to do a market study before launching your game some good advises
 
 ![](images/LHobvious.png)
 (Loop Hero, literaly telling you that this is all the tutorial).
+
+As we will see later, diferent RPGs have other ways of implementing its tutorial.
+
+
 # Posible Improvements
 
 
@@ -51,19 +55,19 @@ Since you have to do a market study before launching your game some good advises
 
 
 
-For the non RPG game we will take "Terraria", the game is listed in steam as a Sandbox-Survival game and we can say it's also a action-adventure game
+- For the non RPG game we will take "Terraria", the game is listed in steam as a Sandbox-Survival game and we can say it's also a action-adventure game
 
 
 ![](images/Tutorial_spawn.jpg)
 (Terraria's tutorial for 3ds)
 
-As we can see in the image the game shows you the ropes with kick guides in the inferior part of the screen such as how to open it's inventory.
+As we can see in the image the game shows you the ropes with kick guides in the inferior part of the screen such as how to open your inventory.
 
-Terraria's tutorial also feature a pre-scipted world hepling you find diferent objects to get used to the game's mechanics.
+Terraria's tutorial also features a pre-scipted world helping you find diferent objects to get used to the game's mechanics.
 
-As for a good RPG game tutorial we will take Persona 5 Royale.
+- As for a good RPG game tutorial we will take Persona 5 Royale.
 
-The game starts in the middle of the action, guiding you through a small section of the game, it teaches you how to move around in diferent modes and what to do in fights, eting you target your enemies weakneses.
+The game starts in the middle of the action(later on discovered as a fast forward), guiding you through a small later section of the game, it teaches you how to move around in diferent modes and what to do in fights, eting you target your enemies weakneses.
 
 ### Persona 5 Royale battle tutorial:
 
@@ -91,9 +95,17 @@ With this you can threaten your enemies so that they give you money, items or th
 (Persona 5 Royale all out attack)
 
 
+For the off combat features the game has:
 
 
+![](images/P5R_Graple.jpg)
+Graple hook presented with 2 clear UI elements (only in some areas of the game, usually used to acces secret areas)
 
+- Normal/Running mode
+
+
+![](images/P5R_Hide.jpg)
+- Hiding mode(Key feature)
 
 # Documentation
 
