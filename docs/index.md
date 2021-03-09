@@ -147,7 +147,7 @@ With this you can threaten your enemies so that they give you money, items or th
 
 
 
-![Checklist](Checklist.pdf)
+![Checklist](https://github.com/Zeta115/RPG-tutorial-creation/blob/main/docs/Checklist.pdf)
 
 
 # Bibliography
