@@ -10,7 +10,7 @@ From what i can gather, the book "Learn to play: Designing tutorials for video g
 
 The key questions when playing the tutorial of a game should be: What am I doing? How do I do it? And why am I doing it?
 
-Making the tutorial of a game one of it's more important parts, if your tutorial does not answer these specific questions you may consider changing it a bit.
+Making the tutorial of a game could be one of it's more important parts, if your tutorial does not answer these specific questions you may consider changing it a bit.
 
 # Market Study
 
