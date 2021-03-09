@@ -55,7 +55,7 @@ The "tutorial room" could be a level of the game, it could relevant to the story
 
 - Tutorial by "context lesons" (this can be divided between temathic or untemathic)
 
-
+![](images/spelunky_context_tutorial.png) Spelunky's tutorial by relevant temathic context lessons
 
 # Posible Improvements
 
