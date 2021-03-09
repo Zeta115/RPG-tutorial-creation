@@ -147,7 +147,7 @@ With this you can threaten your enemies so that they give you money, items or th
 
 
 
-![Checklist]()
+![Checklist](Checklist.pdf)
 
 
 # Bibliography
