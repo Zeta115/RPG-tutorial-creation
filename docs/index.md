@@ -43,6 +43,19 @@ Loop Hero has a very kick, easy to understand tutorial and it does count as the 
 
 As we will see later, diferent RPGs have other ways of implementing its tutorial.
 
+# Clasification of tutorials
+
+- No tutorial (Nothing to implement, everything will be trial and error, usualy done with vetera player on mind)
+
+- Tutorial by exposition (Comonly used, Shows controls on screen for the player) 
+
+- Tutorial room (Prepare a empty room and let players play it freely, controls could show on screen)
+
+The "tutorial room" could be a level of the game, it could relevant to the story if that's what you're after.
+
+- Tutorial by "context lesons" (this can be divided between temathic or untemathic)
+
+
 
 # Posible Improvements
 
@@ -53,6 +66,8 @@ After surpasing the first 3 questions every tutorial should answer you may look 
 - Story wise relevant
 
 - How is the complexity in mechanics evolving?
+
+- Do not write long texts
 
 For this last one you should present your game's newest mechanics from the most easy to understand to the more complex kind of mechanics, you can't teach me how to shoot a bow without explaining how to aim or charge beforehand.
 
