@@ -1,4 +1,4 @@
-# Welcome to the RPG tutorial creation research
+# Welcome to the RPG tutorial creation research by Pol Pallares Mur
 
 
 # Introduction
